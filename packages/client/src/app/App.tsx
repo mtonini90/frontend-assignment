@@ -62,8 +62,7 @@ const App: React.FC = () => {
                 <Row style={style}>
                     <Col>
                         <h1 style={{textAlign: 'center'}}>
-                            SCRIVI IL NOME DI UN POK&Eacute;MON PER EFFETTUARE
-                            UNA RICERCA
+                            SCRIVI IL NOME DI UN POK&Eacute;MON E PREMI CERCA
                         </h1>
                     </Col>
                 </Row>
